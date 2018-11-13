@@ -1,0 +1,6 @@
+/venv
+.flaskenv
+config.py
+get-pip.py
+__pycache__
+.vscode
